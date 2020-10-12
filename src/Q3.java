@@ -1,5 +1,3 @@
-import javax.lang.model.type.NullType;
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Q3 {
