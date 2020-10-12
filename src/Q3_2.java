@@ -45,6 +45,5 @@ public class Q3_2 {
         }
         else
             System.out.println("No matching letter was found.");
-
     }
 }
